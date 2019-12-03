@@ -1,0 +1,10 @@
+C:\Users\AKHIL\Documents\Visual Studio 2019\Projects\Voice_BOT\Voice_BOT\bin\Debug\Voice_BOT.exe.config
+C:\Users\AKHIL\Documents\Visual Studio 2019\Projects\Voice_BOT\Voice_BOT\bin\Debug\Voice_BOT.exe
+C:\Users\AKHIL\Documents\Visual Studio 2019\Projects\Voice_BOT\Voice_BOT\bin\Debug\Voice_BOT.pdb
+C:\Users\AKHIL\Documents\Visual Studio 2019\Projects\Voice_BOT\Voice_BOT\obj\Debug\EDITH.csprojAssemblyReference.cache
+C:\Users\AKHIL\Documents\Visual Studio 2019\Projects\Voice_BOT\Voice_BOT\obj\Debug\Voice_BOT.Form1.resources
+C:\Users\AKHIL\Documents\Visual Studio 2019\Projects\Voice_BOT\Voice_BOT\obj\Debug\Voice_BOT.Properties.Resources.resources
+C:\Users\AKHIL\Documents\Visual Studio 2019\Projects\Voice_BOT\Voice_BOT\obj\Debug\EDITH.csproj.GenerateResource.cache
+C:\Users\AKHIL\Documents\Visual Studio 2019\Projects\Voice_BOT\Voice_BOT\obj\Debug\EDITH.csproj.CoreCompileInputs.cache
+C:\Users\AKHIL\Documents\Visual Studio 2019\Projects\Voice_BOT\Voice_BOT\obj\Debug\Voice_BOT.exe
+C:\Users\AKHIL\Documents\Visual Studio 2019\Projects\Voice_BOT\Voice_BOT\obj\Debug\Voice_BOT.pdb
